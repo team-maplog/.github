@@ -1,12 +1,23 @@
-## Hi there 👋
+# Maplog · 맵로그
 
-<!--
+**여행 영상 속 장소와 이동 경로를 지도에서 함께 보는 서비스**
 
-**Here are some ideas to get you started:**
+여행의 장면과 장소를 연결하는 앱을 만드는 팀, Maplog.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 왜 만들었나요?
+
+여행 영상을 다시 볼 때, 어느 장소에서 촬영했는지와 어떤 순서로 이동했는지 찾기 어려움.
+
+맵로그는 영상 클립에 장소·시간 정보를 연결해 **지도에서 여행 경로를 살펴보고, 선택한 장소의 장면을 바로 재생**할 수 있도록 구성.
+
+촬영부터 편집·장소 확인·발행·탐색까지 하나의 앱에서 연결.
+
+## 주요 기능
+
+| 기능 | 내용 |
+| --- | --- |
+| 촬영·편집 | 영상 촬영·가져오기, 클립 순서·구도·회전 조정, 자막·위치·시간 표시 |
+| 지도·영상 탐색 | 지도에서 게시물과 이동 경로 확인, 장소 선택 시 해당 장면부터 재생 |
+| 여행 기록 발행 | 커버·설명·태그 입력, 장소 검색·지도 핀 조정, 게시물 수정·삭제 |
+| 관광 정보 탐색 | 축제·관광지 목록과 상세 정보·사진·위치 확인 |
+| 기록 공유 | 팔로우·좋아요·댓글·푸시 알림, 신고·차단 |
